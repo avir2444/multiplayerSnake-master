@@ -99,4 +99,4 @@ function emitGameOver(room, winner) {
     .emit('gameOver', JSON.stringify({ winner }));
 }
 
-io.listen(3000);
+io.listen(process.end.PORT || 3000);
