@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3adcb4c1-33bf-487c-9206-be545ca9416f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" />
+    <list default="true" id="3adcb4c1-33bf-487c-9206-be545ca9416f" name="Default Changelist" comment="update 2">
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +66,16 @@
       <workItem from="1609352103237" duration="1677000" />
       <workItem from="1609595757739" duration="12344000" />
       <workItem from="1609663222066" duration="8973000" />
-      <workItem from="1609686491560" duration="472000" />
+      <workItem from="1609686491560" duration="802000" />
     </task>
+    <task id="LOCAL-00001" summary="update 2">
+      <created>1609686999451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609686999451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609664304281">
@@ -87,6 +117,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609361967338" />
+    <state x="988" y="263" key="Vcs.Push.Dialog.v2" timestamp="1609687012161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609687012161" />
+    <state x="1213" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609686975979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1213" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609686975979" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1609663635147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
